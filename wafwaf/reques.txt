@@ -1,0 +1,9 @@
+POST / HTTP/1.1
+Host: 188.166.173.208:30873
+User-Agent: curl/7.68.0
+Accept: */*
+Content-Length: 13
+Content-Type: application/x-www-form-urlencoded
+Connection: close
+
+{"user":"d*"}
